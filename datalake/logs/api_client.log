@@ -1,0 +1,56 @@
+2024-04-06 09:13:41,057:INFO:Starting the application
+2024-04-06 09:13:41,076:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:13:41,076:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:13:41,077:INFO: * Restarting with stat
+2024-04-06 09:13:41,705:INFO:Starting the application
+2024-04-06 09:13:41,712:WARNING: * Debugger is active!
+2024-04-06 09:13:41,716:INFO: * Debugger PIN: 126-188-619
+2024-04-06 09:14:22,262:INFO:127.0.0.1 - - [06/Apr/2024 09:14:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:14:22,532:INFO:127.0.0.1 - - [06/Apr/2024 09:14:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-06 09:14:22,542:INFO:127.0.0.1 - - [06/Apr/2024 09:14:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-06 09:14:22,612:INFO:127.0.0.1 - - [06/Apr/2024 09:14:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-06 09:14:23,367:INFO:127.0.0.1 - - [06/Apr/2024 09:14:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:14:45,599:INFO:Starting the application
+2024-04-06 09:14:45,668:INFO:Starting the application
+2024-04-06 09:14:47,740:INFO:Starting the application
+2024-04-06 09:14:47,761:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:14:47,761:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:14:47,763:INFO: * Restarting with stat
+2024-04-06 09:14:48,408:INFO:Starting the application
+2024-04-06 09:14:48,416:WARNING: * Debugger is active!
+2024-04-06 09:14:48,420:INFO: * Debugger PIN: 126-188-619
+2024-04-06 09:14:58,773:INFO:Starting the application
+2024-04-06 09:14:58,850:INFO:Starting the application
+2024-04-06 09:16:50,964:INFO:Starting the application
+2024-04-06 09:16:50,987:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:16:50,987:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:16:50,988:INFO: * Restarting with stat
+2024-04-06 09:16:51,593:INFO:Starting the application
+2024-04-06 09:16:51,600:WARNING: * Debugger is active!
+2024-04-06 09:16:51,604:INFO: * Debugger PIN: 126-188-619
+2024-04-06 09:20:18,668:INFO:127.0.0.1 - - [06/Apr/2024 09:20:18] "GET / HTTP/1.1" 200 -
+2024-04-06 09:20:19,383:INFO:127.0.0.1 - - [06/Apr/2024 09:20:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:24:10,259:INFO:User values: {'bedrooms': 4.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:24:11,070:INFO:Prediction: 86968.64
+2024-04-06 09:24:11,071:INFO:127.0.0.1 - - [06/Apr/2024 09:24:11] "POST / HTTP/1.1" 200 -
+2024-04-06 09:25:24,326:INFO:127.0.0.1 - - [06/Apr/2024 09:25:24] "GET / HTTP/1.1" 200 -
+2024-04-06 09:25:27,490:INFO:User values: {'bedrooms': 1.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:25:27,501:INFO:Prediction: 293612.42
+2024-04-06 09:25:27,502:INFO:127.0.0.1 - - [06/Apr/2024 09:25:27] "POST / HTTP/1.1" 200 -
+2024-04-06 09:25:30,507:INFO:User values: {'bedrooms': -9.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:25:30,520:INFO:Prediction: 982425.0
+2024-04-06 09:25:30,520:INFO:127.0.0.1 - - [06/Apr/2024 09:25:30] "POST / HTTP/1.1" 200 -
+2024-04-06 09:25:34,296:INFO:127.0.0.1 - - [06/Apr/2024 09:25:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 09:25:34,486:INFO:127.0.0.1 - - [06/Apr/2024 09:25:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:25:34,496:INFO:127.0.0.1 - - [06/Apr/2024 09:25:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:25:34,536:INFO:127.0.0.1 - - [06/Apr/2024 09:25:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:25:34,662:INFO:127.0.0.1 - - [06/Apr/2024 09:25:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:25:38,951:INFO:User values: {'bedrooms': -1.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:25:38,959:INFO:Prediction: 431374.94
+2024-04-06 09:25:38,959:INFO:127.0.0.1 - - [06/Apr/2024 09:25:38] "POST / HTTP/1.1" 200 -
+2024-04-06 09:25:43,865:INFO:User values: {'bedrooms': -2.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:25:43,873:INFO:Prediction: 500256.19
+2024-04-06 09:25:43,873:INFO:127.0.0.1 - - [06/Apr/2024 09:25:43] "POST / HTTP/1.1" 200 -
